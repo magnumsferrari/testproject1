@@ -1,3 +1,4 @@
 {
-	"name": "acme/hello-world"
+	"name": "acme/hello-world",
+	"version":"1.0"
 }
